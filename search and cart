@@ -1,0 +1,157 @@
+{# Cart Modal#}
+<div id="sb-container" class="d-md-flex flex-row-reverse">
+    <div id="sb" class="d-flex flex-column">
+        <div id="sb-top" class="d-flex justify-content-between">
+            <div id="sb-h">
+                <div id="sb-qty" class="icon-bag">
+                    <div id="sb-qty-no" class="d-flex align-items-center justify-content-center">
+                        <span>2</span>
+                    </div>
+                </div> <strong>Shopping Bag</strong>
+            </div> <a href="#" class="icon-close sb-close"></a>
+        </div>
+        <div id="sb-m">
+            <div id="sb-c">
+                <div class="sb-i">
+                    <div class="d-flex justify-content-between mb-2">
+                        <div class="sb-i-name"><strong>Playful Shapes</strong> <small>A4 Print (210 x 297mm)</small>
+                        </div>
+                    </div>
+                    <div class="d-flex justify-content-between sb-i-details">
+                        <div class="sb-i-details-l mr-2"><img
+                                src="https://uksignshop.co.uk/media/cache/sylius_shop_product_thumbnail/72/c5/49a6831e0fe584143398fca5deb2.jpeg"
+                                alt="Playful Shapes">
+                            <div class="sb-i-q d-flex justify-content-between mb-2"><a href="javascript:void(0);"
+                                    class="icon-minus"></a> <input data-field="quantity" type="number" class="sb-i-q-f">
+                                <a href="javascript:void(0);" class="icon-plus"></a></div> <a href="javascript:void(0);"
+                                class="icon-delete sb-i-r"><span>Remove</span></a>
+                        </div>
+                        <div class="sb-i-details-r"> <!---->
+                            <div class="sb-i-price"><strong>£13.00</strong> <span> (£10.83 ex. VAT)</span></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="sb-i">
+                    <div class="d-flex justify-content-between mb-2">
+                        <div class="sb-i-name"><strong>Abstract Shapes</strong> <small>A4 Print (210 x
+                                297mm)</small></div>
+                    </div>
+                    <div class="d-flex justify-content-between sb-i-details">
+                        <div class="sb-i-details-l mr-2"><img
+                                src="https://uksignshop.co.uk/media/cache/sylius_shop_product_thumbnail/40/e8/c8307cbee2bf63997ab663292748.jpeg"
+                                alt="Abstract Shapes">
+                            <div class="sb-i-q d-flex justify-content-between mb-2"><a href="javascript:void(0);"
+                                    class="icon-minus"></a> <input data-field="quantity" type="number" class="sb-i-q-f">
+                                <a href="javascript:void(0);" class="icon-plus"></a></div> <a href="javascript:void(0);"
+                                class="icon-delete sb-i-r"><span>Remove</span></a>
+                        </div>
+                        <div class="sb-i-details-r"> <!---->
+                            <div class="sb-i-price"><strong>£13.00</strong> <span> (£10.83 ex. VAT)</span></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="sb-b">
+            <div id="sb-totals" class="pt-1 pb-1">
+                <div class="d-flex justify-content-between align-items-center">
+                    <div>Subtotal</div>
+                    <div>£21.66</div>
+                </div>
+                <div class="d-flex justify-content-between align-items-center">
+                    <div>Tax</div>
+                    <div>£4.34</div>
+                </div> <!---->
+                <div class="d-flex justify-content-between align-items-center">
+                    <div><strong>Order total</strong></div>
+                    <div><strong>£26.00</strong></div>
+                </div>
+            </div>
+            <div class="gift-message-cart text-center btn btn-primary w-100 mb-2 py-2 px-2 d-flex align-content-center justify-content-between position-relative overflow-hidden"
+                style="border-radius: 6px; background: rgb(55, 60, 78); text-align: left; border: 2px solid rgb(222, 226, 230); color: rgb(110, 127, 159); height: auto; cursor: default; text-transform: none; line-height: 1.25; font-size: 18px;">
+                <div style="text-align: left; position: relative; z-index: 2; color: rgb(255, 255, 255);">Buying
+                    this
+                    as a gift?<span class="d-block text-sm-center"
+                        style="font-size: 14px; color: rgb(255, 173, 173); margin-top: 5px;">Why not add a gift
+                        message for just £2.50?</span></div> <a href="/gift-message"
+                    class="ml-1 py-1 px-2 btn btn-primary d-flex justify-content-center align-items-center"
+                    style="text-transform: none; position: relative; z-index: 3;"><span>Add</span></a>
+            </div> <a href="/checkout" id="sb-proceed" class="bg-a">Proceed</a>
+            <div class="d-flex justify-content-between align-items-center"><a href="#" id="sb-cont"
+                    class="icon-arrow-left sb-close">Continue Shopping</a> <img src="/assets/theme/img/sucuri-logo.png"
+                    alt="UK Sign Shop is secured by Sucuri"></div>
+        </div>
+    </div>
+    <div id="sb-sup" class="d-md-flex justify-content-between flex-column">
+        <div id="sb-upsell">
+            <div class="sb-upsell-heading pt-3 pt-md-2 pt-lg-3 pb-3">People with similar
+                interests also viewed:</div>
+            <div class="d-flex justify-content-between row">
+                <div class="col-md-6 col-lg-4 col-xl-3 pl">
+                    <div class="pl-i"><a href="/rosswell-wheelie-bin-sticker"><img loading="lazy"
+                                src="https://uksignshop.co.uk/media/cache/sylius_shop_product_thumbnail/f3/d6/05f3bebc7c6a861c2edabb2e3adb.jpeg"
+                                alt="Rosswell Wheelie Bin Sticker"></a></div> <a href="/rosswell-wheelie-bin-sticker"
+                        class="pl-n">Rosswell Wheelie Bin Sticker</a>
+                    <div class="pl-p">£5.00</div>
+                </div>
+                <div class="col-md-6 col-lg-4 col-xl-3 pl">
+                    <div class="pl-i"><a href="/apollo-led-solar-house-sign"><img loading="lazy"
+                                src="https://uksignshop.co.uk/media/cache/sylius_shop_product_thumbnail/6b/c4/001a7a5e7bf4c9d6335e6fe2cb2d.jpeg"
+                                alt="Apollo LED Solar House Sign"></a></div> <a href="/apollo-led-solar-house-sign"
+                        class="pl-n">Apollo LED Solar House Sign</a>
+                    <div class="pl-p">£49.00</div>
+                </div>
+                <div class="col-md-6 col-lg-4 col-xl-3 pl">
+                    <div class="pl-i"><a href="/flowers-in-vase-print"><img loading="lazy"
+                                src="https://uksignshop.co.uk/media/cache/sylius_shop_product_thumbnail/50/32/7b7835f509acecbd2c8b58766b2e.jpeg"
+                                alt="Flowers in Vase"></a></div> <a href="/flowers-in-vase-print" class="pl-n">Flowers
+                        in Vase</a>
+                    <div class="pl-p">£13.00</div>
+                </div>
+                <div class="col-md-6 col-lg-4 col-xl-3 pl">
+                    <div class="pl-i"><a href="/flower-circle-print"><img loading="lazy"
+                                src="https://uksignshop.co.uk/media/cache/sylius_shop_product_thumbnail/a0/f4/97bde81964ffa7585920eaf227ac.jpeg"
+                                alt="Flower"></a></div> <a href="/flower-circle-print" class="pl-n">Flower</a>
+                    <div class="pl-p">£13.00</div>
+                </div>
+            </div>
+        </div>
+        <div id="sb-promo-dis">
+            * Only applies to orders delivered to the UK. Cannot be used in conjunction with any other offer or
+            voucher. Excludes custom quotations.
+        </div>
+    </div>
+</div>
+{# Cart Modal#}
+{#Search Modal#}
+<div id="search-container">
+    <a href="#" class="icon-close s-close"></a>
+    <div class="d-flex flex-column justify-content-between container">
+        <div id="search-top" class="pt-md-3 pt-3"><label>Start typing what you’re looking for...</label>
+            <div class="icon-search"><input type="search" placeholder="Search"></div>
+        </div>
+        <div id="search-middle">
+            <div id="search-results" class="container">
+                <div id="pl-container" class="search-results"> </div>
+            </div>
+        </div>
+        <div id="search-bottom" class="d-md-flex justify-content-between">
+            <ul class="list-unstyled m-0">
+                <li><a href="/house-signs#sort=best_sellers">Best Sellers</a></li>
+                <li><a href="/house-signs#sort=newest">New Products</a></li>
+                <li><a href="#">Spares &amp; Accessories</a></li>
+            </ul>
+            <ul class="list-unstyled m-0">
+                <li><a href="/faq">Help &amp; FAQs</a></li>
+                <li><a href="/contact-us">Contact</a></li>
+                <li><a href="/order-status">Check Order Progress</a></li>
+            </ul>
+            <ul class="list-unstyled m-0">
+                <li><a href="/delivery-shipping-info">Shipping &amp; Delivery</a></li>
+                <li><a href="/returns">Returns</a></li>
+                <li><a href="/terms-and-conditions">Terms &amp; Conditions</a></li>
+            </ul>
+        </div>
+    </div>
+</div>
+{#Search Modal#}
